@@ -2,7 +2,7 @@ Practice of `Werkzeug tutorial`
 http://werkzeug-docs-cn.readthedocs.io/zh_CN/latest/tutorial.html
 
 
-=============================================================================
+====================
 How to start server?
 --------------------
 
@@ -20,7 +20,7 @@ How to start server?
 5. $ python microurl.py
 
 
-=============================================================================
+=========
 Refer to:
 ---------
 http://werkzeug.pocoo.org/docs/0.14/wrappers/
